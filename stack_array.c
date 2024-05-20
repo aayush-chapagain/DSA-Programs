@@ -5,7 +5,7 @@ int top = -1;
 
 void push()
 {
-    int x;1
+    int x;
     printf("Enter data: ");
     scanf("%d", &x);
     if (top == N - 1)
